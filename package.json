@@ -1,0 +1,44 @@
+{
+  "name": "bkc-travel",
+  "version": "1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/nextjs-registry": "^1.0.2",
+    "@ant-design/pro-components": "^2.8.7",
+    "@emotion/css": "^11.13.5",
+    "@reduxjs/toolkit": "^2.2.5",
+    "@tinymce/tinymce-react": "^6.1.0",
+    "@types/node": "^20.10.5",
+    "@types/react-dom": "^18.2.18",
+    "antd": "^5.25.0",
+    "antd-img-crop": "^4.25.0",
+    "aos": "^2.3.4",
+    "dayjs": "^1.11.13",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.4",
+    "fslightbox-react": "^1.7.6",
+    "next": "^14.0.4",
+    "next-auth": "^4.24.7",
+    "nextjs-toploader": "^1.6.12",
+    "react": "18.2.0",
+    "react-accessible-accordion": "^5.0.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^9.1.2",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0",
+    "sharp": "^0.33.1",
+    "swiper": "^11.0.5",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7",
+    "@types/fslightbox-react": "^1.7.7",
+    "@types/react": "^18.3.23"
+  }
+}

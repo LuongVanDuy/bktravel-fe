@@ -1,0 +1,110 @@
+/*
+Footer Area
+=====================================================*/
+.footer-single-widget {
+  margin-bottom: 25px;
+}
+.footer-single-widget .logo {
+  margin-bottom: 20px;
+}
+.footer-single-widget p {
+  margin-bottom: 20px;
+}
+.footer-single-widget h3 {
+  font-size: 22px;
+  margin-bottom: 50px;
+}
+.footer-single-widget .import-link li {
+  margin-bottom: 15px;
+}
+.footer-single-widget .import-link li:last-child {
+  margin-bottom: 0;
+}
+.footer-single-widget .import-link li a {
+  color: var(--bodyColor);
+  text-decoration: none;
+}
+.footer-single-widget .import-link li a:hover {
+  color: var(--mainColor);
+}
+.footer-single-widget .info-official li {
+  margin-bottom: 18px;
+}
+.footer-single-widget .info-official li:last-child {
+  margin-bottom: 0;
+}
+.footer-single-widget .info-official li i {
+  color: var(--optionalColor);
+}
+.footer-single-widget .info-official li h4 {
+  font-weight: 700;
+  font-size: 16px;
+}
+.footer-single-widget .info-official li a {
+  text-decoration: none;
+}
+.footer-single-widget.mw-310 {
+  max-width: 310px;
+}
+
+/*
+Copy Right Area
+=====================================================*/
+.copy-right-area {
+  text-align: center;
+  border-top: 1px solid rgba(17, 24, 39, 0.16);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.copy-right-area p span {
+  color: var(--optionalColor);
+  font-weight: 500;
+}
+.copy-right-area p a {
+  text-decoration: none;
+  color: var(--optionalColor);
+  font-weight: 500;
+}
+
+/*
+backtoptop Area Style
+======================================================*/
+.backtotop {
+  position: fixed;
+  bottom: 86px;
+  right: 30px;
+  margin: auto;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border: none;
+  background-color: var(--mainColor);
+  color: var(--whiteColor);
+  z-index: 999;
+  transition: var(--transition);
+  text-align: center;
+  cursor: pointer;
+}
+
+/* Max width 767px */
+@media only screen and (max-width: 767px) {
+  .footer-single-widget h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  .footer-single-widget.mw-310 {
+    max-width: 100%;
+  }
+}
+/* Min width 768px to Max width 991px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .footer-single-widget.mw-310 {
+    max-width: 100%;
+  }
+}
+/* Min width 992px to Max width 1199px */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .footer-single-widget .info-official li a {
+    font-size: 15px;
+  }
+}/*# sourceMappingURL=footer.css.map */

@@ -1,0 +1,28 @@
+.dark-switcher-btn {
+  cursor: pointer;
+  line-height: 1;
+}
+.dark-switcher-btn i {
+  color: #111827;
+  font-size: 28px;
+}
+.dark-switcher-btn .moon {
+  display: none;
+}
+
+.dark .dark-switcher-btn .moon {
+  display: block;
+  color: #fff;
+}
+.dark .dark-switcher-btn .sun {
+  display: none;
+}
+.dark .others-options.style-two .dark-switcher-btn i {
+  color: #111827;
+}
+
+@media only screen and (max-width: 991px) {
+  .dark-switcher-btn i {
+    font-size: 20px;
+  }
+}/*# sourceMappingURL=dark-switch-btn.css.map */

@@ -1,0 +1,1625 @@
+/* Max width 767px */
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 14px;
+  }
+  .ptb-175 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .pt-175 {
+    padding-top: 60px;
+  }
+  .pb-175 {
+    padding-bottom: 60px;
+  }
+  .pt-150 {
+    padding-top: 35px;
+  }
+  .pb-150 {
+    padding-bottom: 35px;
+  }
+  .mb-50 {
+    margin-bottom: 30px;
+  }
+  .pb-115 {
+    padding-bottom: 60px;
+  }
+  .mb-70 {
+    margin-bottom: 30px;
+  }
+  .mt-35 {
+    margin-top: 0;
+  }
+  .default-btn {
+    font-size: 14px;
+    padding: 10px 12px;
+    line-height: 23px;
+    font-weight: 500;
+  }
+  .default-btn i {
+    position: relative;
+    top: 1px;
+  }
+  .default-btn.btn-rounded-0 {
+    padding: 10px 17px;
+  }
+  .read-more {
+    font-size: 14px;
+  }
+  .form-control {
+    height: 50px;
+  }
+  .form-control::-moz-placeholder {
+    font-size: 14px;
+  }
+  .form-control::placeholder {
+    font-size: 14px;
+  }
+  .shape {
+    display: none;
+  }
+  .mw-1640 {
+    max-width: 540px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: normal !important;
+  }
+  /** Banner Style **/
+  .banner-bg-1 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .banner-content {
+    margin-top: 0;
+  }
+  .banner-content h1 {
+    font-size: 30px;
+    line-height: normal;
+    margin-bottom: 15px;
+  }
+  .banner-content p {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+  .banner-content.style-three {
+    margin-left: 0;
+  }
+  .banner-content.style-three p {
+    margin-bottom: 20px;
+  }
+  .banner-content.style-three .banner-btn {
+    margin-bottom: 30px;
+  }
+  .banner-content.style-three .location-track {
+    border-radius: 20px;
+    margin: 0;
+  }
+  .location-track {
+    padding: 20px;
+    padding-bottom: 0;
+    margin-bottom: 30px;
+    margin-right: 0;
+  }
+  .location-track .form-group {
+    margin-bottom: 20px;
+  }
+  .location-track .form-group .title {
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .location-track .form-group::before {
+    display: none;
+  }
+  .banner-img-wrap {
+    margin-left: 0;
+  }
+  .banner-img-wrap .banner-img-two {
+    margin-top: 30px;
+  }
+  .banner-img-wrap .banner-img-two .packages {
+    position: unset;
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  .banner-img-wrap.style-three {
+    margin-left: 0;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .banner-img-wrap.style-three .banner-img-two {
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 30px;
+  }
+  .banner-img-wrap.style-three .banner-img-two img {
+    border-radius: 20px;
+  }
+  .banner-bg-2 {
+    padding-top: 130px;
+    padding-bottom: 60px;
+  }
+  .banner-img-3 {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .banner-content-two .banner-content-wrap {
+    margin-left: 0;
+  }
+  .banner-content-two .banner-content-wrap h1 {
+    font-size: 30px;
+  }
+  .banner-content-two .banner-content-wrap h1 .banner-img-4 {
+    max-width: 80px;
+  }
+  .banner-content-two .ms-140 {
+    margin: auto;
+    margin-left: 0;
+    text-align: center;
+    margin-top: 30px;
+    display: list-item;
+  }
+  .banner-buy-sell-two {
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .banner-buy-sell-two .form-group {
+    margin-bottom: 10px;
+  }
+  .banner-buy-sell-two .col-lg-3:last-child .form-group {
+    margin-bottom: 0;
+  }
+  .video-height video {
+    width: 100%;
+  }
+  .video-play {
+    background-color: var(--whiteColor);
+    border-radius: 100px;
+  }
+  /** Follow Style **/
+  .follow-us {
+    margin-bottom: 30px !important;
+  }
+  /** Section Style **/
+  .top-title {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title h2 {
+    font-size: 25px;
+  }
+  /** Benefits Style **/
+  .benefits-single-item {
+    border: 1px solid rgba(17, 24, 39, 0.14);
+    padding: 30px 15px;
+    border-radius: 10px;
+    max-width: 100%;
+  }
+  .benefits-single-item::before {
+    display: none;
+  }
+  .benefits-single-item svg {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+  }
+  .benefits-single-item h5 {
+    font-size: 20px;
+  }
+  .benefits-single-item.style-three {
+    padding: 20px;
+  }
+  /** Swiper Controller Style **/
+  .swiper-controller .controller-icon {
+    width: 40px;
+    height: 40px;
+    line-height: 37px;
+  }
+  .swiper-controller .controller-icon.next {
+    margin-left: 5px;
+  }
+  /** Popular Style **/
+  .popular-single-item h3 {
+    font-size: 20px;
+  }
+  /** Welcome Style **/
+  .welcome-img {
+    margin-bottom: 30px;
+  }
+  .welcome-content h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .welcome-content .welcome-single-item {
+    text-align: center;
+    border: 1px solid rgba(17, 24, 39, 0.14);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .welcome-content .welcome-btn-wrap {
+    margin-top: 0;
+  }
+  /** Most Popular Style **/
+  .most-popular-tab {
+    margin-bottom: -10px;
+  }
+  .most-popular-tab .nav-item {
+    margin-right: 5px;
+    margin-bottom: 10px;
+  }
+  .most-popular-tab .nav-item button {
+    font-size: 14px;
+    padding: 8px 15px;
+  }
+  .most-popular-single-item .most-popular-single-img .most-popular-single-heart-discount {
+    top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .most-popular-single-item .most-popular-single-content {
+    padding: 20px;
+  }
+  .most-popular-single-item .most-popular-single-content h3 {
+    font-size: 16px;
+  }
+  .most-popular-single-item .most-popular-single-content .most-popular-single-price span .title {
+    font-size: 18px;
+  }
+  /** Works Item Style **/
+  .works-single-item {
+    border: 1px solid rgba(17, 24, 39, 0.14);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .works-single-item .works-single-img {
+    margin-bottom: 20px;
+  }
+  .works-single-item h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  /** Discount Style **/
+  .discount-single-item .discount {
+    top: 20px;
+    left: 20px;
+  }
+  .discount-single-item .discount-single-content h3 {
+    font-size: 20px;
+    margin-bottom: 3px;
+  }
+  /** Choose Style **/
+  .choose-content h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .choose-content .choose-content-list li h4 {
+    font-size: 20px;
+  }
+  .choose-content .choose-content-list li .ms-40 {
+    margin-left: 20px;
+  }
+  /** Author Style **/
+  .author-single-item {
+    padding: 30px;
+  }
+  .author-single-item h3 {
+    font-size: 20px;
+  }
+  .author-single-item .author-single-location {
+    margin-bottom: 20px;
+  }
+  /** Testimonial Style **/
+  .testimonial-content h2 {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  .testimonial-content p {
+    font-size: 16px;
+  }
+  .testimonial-single-item h3 {
+    margin-bottom: 10px;
+  }
+  .testimonial-single-item h4 {
+    font-size: 16px;
+  }
+  .testimonial-img-three {
+    max-width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 0 !important;
+  }
+  /** Discover Style **/
+  .discover-single-item {
+    padding: 30px;
+  }
+  .subscribe-content .form-control {
+    height: 50px;
+  }
+  .subscribe-content .default-btn {
+    padding: 10px 15px;
+  }
+  /** House Listing Style **/
+  .house-listing-single-item .house-listing-single-img img {
+    border-radius: 20px 20px 0 0;
+  }
+  .house-listing-single-item .house-listing-single-content {
+    padding: 20px;
+    border: 1px solid rgba(17, 24, 39, 0.14);
+    border-radius: 0 0 20px 20px;
+  }
+  .house-listing-single-item .house-listing-single-content h3 {
+    font-size: 20px;
+  }
+  .house-listing-single-item .house-listing-single-content .house-listing-fe-list li {
+    margin-right: 10px;
+  }
+  /** How It Works Style **/
+  .how-it-works-content {
+    max-width: 100%;
+  }
+  .how-it-works-content h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .how-it-works-content p {
+    margin-bottom: 20px;
+  }
+  .how-it-works-single-item {
+    padding: 20px;
+  }
+  .how-it-works-single-item h1 {
+    font-size: 60px;
+  }
+  .how-it-works-single-item h3 {
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  /** Why Choose Tofy Content Style **/
+  .why-choose-tofy-content h2 {
+    font-size: 25px;
+  }
+  .why-choose-tofy-content ul li h4 {
+    font-size: 20px;
+  }
+  .why-choose-tofy-content ul li .ms-30 {
+    margin-left: 15px;
+  }
+  /** Top Author Style **/
+  .top-author-single-item .top-author-single-content {
+    padding: 20px;
+  }
+  .top-author-single-item .top-author-single-content h3 {
+    font-size: 20px;
+  }
+  .top-author-single-item .top-author-single-img .social-link {
+    right: 20px;
+  }
+  .top-author-single-item .top-author-single-img .listing {
+    top: 20px;
+    left: 20px;
+    font-size: 13px;
+  }
+  /** Swiper Controller Style **/
+  .swiper-controller-wrap .swiper-controller {
+    position: unset;
+    margin-top: 20px;
+  }
+  /** FAQ Style **/
+  .faq-content {
+    margin-bottom: 30px;
+  }
+  .faq-content h2 {
+    font-size: 25px;
+  }
+  .faq-accordion-wrap {
+    margin-bottom: 30px;
+  }
+  .faq-accordion-wrap .accordion .accordion__item {
+    margin-bottom: 30px;
+  }
+  .faq-accordion-wrap .accordion .accordion__item .accordion__button {
+    font-size: 17px;
+  }
+  .faq-img-2 {
+    max-width: 100%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  /** Offer Style **/
+  .offer-content {
+    position: unset;
+    transform: unset;
+    padding: 0;
+    margin-top: 30px;
+  }
+  .offer-content h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  .offer-content .offer-content-btn {
+    margin-top: 30px;
+  }
+  /** Destination Style **/
+  .destination-content {
+    margin-bottom: 30px;
+  }
+  .destination-content h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .destination-content .destination-content-list li h4 {
+    font-size: 18px;
+  }
+  .destination-content .destination-content-list li .ms-35 {
+    margin-left: 10px;
+  }
+  /** Blog Style **/
+  .blog-content h2 {
+    font-size: 25px;
+  }
+  .blog-single-item .blog-single-content {
+    padding: 20px;
+  }
+  .blog-single-item .blog-single-content h4 {
+    font-size: 20px;
+  }
+  /** How It Works Style **/
+  .how-its-work-single-item {
+    padding: 20px;
+  }
+  .how-its-work-single-item h4 {
+    font-size: 20px;
+  }
+  .how-its-work-single-item .ms-30 {
+    margin-left: 0;
+    margin-top: 20px;
+  }
+  /** Page banner Style **/
+  .page-banner-area {
+    padding-top: 130px;
+    padding-bottom: 60px;
+  }
+  .page-banner-img {
+    margin-top: 30px;
+    margin-left: 0;
+  }
+  .page-banner-content {
+    text-align: center;
+  }
+  .page-banner-content h2 {
+    font-size: 30px;
+  }
+  .page-banner-content ul.style-two li span {
+    font-size: 14px;
+  }
+  .track-form-area .location-track {
+    border-radius: 20px;
+  }
+  .filter-drop {
+    margin-top: 30px;
+  }
+  .filter-drop li {
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+  .filter-drop li .opacity-btn {
+    width: 100%;
+  }
+  .pagination-area {
+    margin-top: 0;
+  }
+  .map-wrap iframe {
+    height: 500px;
+    margin-top: 30px;
+  }
+  .page-banner-content ul li span {
+    font-size: 15px;
+  }
+  .page-banner-content ul li a {
+    font-size: 15px;
+  }
+  .box-style {
+    padding: 20px;
+  }
+  .stay-details-img {
+    margin-bottom: 30px;
+  }
+  .stay-details-content {
+    margin-bottom: 30px;
+  }
+  .stay-details-content .box-style {
+    margin-bottom: 30px;
+  }
+  .stay-details-content .post-info h3 {
+    font-size: 22px;
+  }
+  .box-title h4 {
+    font-size: 20px;
+  }
+  .stay-details-content .stay-comment-list {
+    padding: 20px;
+  }
+  .stay-details-content .stay-comment-list ul li {
+    margin-left: 0;
+    padding: 20px;
+  }
+  .stay-details-content .stay-comment-list ul li .ms-4 {
+    margin-left: 0 !important;
+    margin-top: 20px;
+  }
+  .stay-details-sidebar .stay-single-sidebar-item {
+    padding: 20px;
+  }
+  .choosing-listing-categories-content .choosing-form {
+    padding: 20px;
+    border-radius: 8px;
+  }
+  .choosing-listing-categories-content .choosing-form h4 {
+    font-size: 20px;
+  }
+  .choosing-listing-categories-content .choosing-btn {
+    margin-top: 20px;
+  }
+  .choosing-listing-categories-content .choosing-form .border-style {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  .chackout-content {
+    padding: 20px;
+  }
+  .chackout-content h4 {
+    font-size: 20px;
+  }
+  .chackout-content h3 {
+    font-size: 18px;
+  }
+  .chackout-sidebar {
+    padding: 20px;
+  }
+  .chackout-content .booking-list li {
+    padding-left: 140px;
+  }
+  .author-content-wrap {
+    padding: 10px;
+  }
+  .author-content-review {
+    padding: 10px;
+  }
+  .author-content-review .review-list li {
+    padding: 10px;
+  }
+  .author-content-review .review-list li .ms-4 {
+    margin-left: 0 !important;
+    margin-top: 10px;
+  }
+  .author-sidebar {
+    padding: 20px;
+  }
+  .author-sidebar h3 {
+    font-size: 20px;
+  }
+  .account-content {
+    padding: 25px;
+  }
+  .account-content .account-tabs .nav-item {
+    margin-right: 5px;
+    margin-bottom: 5px;
+  }
+  .account-content .account-tabs .nav-item button {
+    font-size: 12px;
+    padding: 12px 10px;
+  }
+  .box-title {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .box-title h3 {
+    font-size: 20px;
+  }
+  .login-register-form {
+    padding: 20px;
+  }
+  .subscription-single-item {
+    padding: 20px;
+  }
+  .subscription-single-item .subscription-header h1 {
+    font-size: 30px;
+  }
+  .subscription-single-item .subscription-header svg {
+    width: 50px;
+    height: 50px;
+  }
+  .subscription-single-item .subscription-header .ms-4 {
+    margin-left: 0.5rem !important;
+  }
+  .blog-details-content h2 {
+    font-size: 20px;
+  }
+  .blog-details-content .blockquote {
+    padding: 20px;
+  }
+  .author-content {
+    padding: 20px;
+  }
+  .comment-replay {
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  .single-sidebar-item {
+    padding: 20px;
+  }
+  .contat-us-form {
+    padding: 25px;
+  }
+  .contact-us-info li {
+    padding: 25px;
+  }
+  .flight-accordion .accordion {
+    width: 1040px;
+  }
+}
+/* Min width 576px to Max width 767px */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /** Funfact Style **/
+  .funfact-area .col-lg-25 {
+    width: 49%;
+    flex: 0 0 auto;
+    display: inline-block;
+  }
+  /** House Listing Style **/
+  .house-listing-single-item .house-listing-single-img img {
+    border-radius: 20px 0 0 20px;
+  }
+  .house-listing-single-item .house-listing-single-content {
+    border-radius: 0 20px 20px 0;
+  }
+  .how-its-work-single-item .ms-30 {
+    margin-top: 0;
+    margin-left: 30px;
+  }
+  .stay-details-content .post-info .fe-list li {
+    margin-right: 10px;
+  }
+}
+/* Min width 768px to Max width 991px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  body {
+    font-size: 14px;
+  }
+  .ptb-175 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .pt-175 {
+    padding-top: 60px;
+  }
+  .pb-175 {
+    padding-bottom: 60px;
+  }
+  .pt-150 {
+    padding-top: 35px;
+  }
+  .pb-150 {
+    padding-bottom: 35px;
+  }
+  .mb-50 {
+    margin-bottom: 30px;
+  }
+  .pb-115 {
+    padding-bottom: 60px;
+  }
+  .mb-70 {
+    margin-bottom: 30px;
+  }
+  .mt-35 {
+    margin-top: 0;
+  }
+  .default-btn {
+    font-size: 14px;
+    padding: 10px 12px;
+    line-height: 23px;
+    font-weight: 500;
+  }
+  .default-btn i {
+    position: relative;
+    top: 1px;
+  }
+  .default-btn.btn-rounded-0 {
+    padding: 10px 17px;
+  }
+  .read-more {
+    font-size: 14px;
+  }
+  .form-control {
+    height: 50px;
+  }
+  .form-control::-moz-placeholder {
+    font-size: 14px;
+  }
+  .form-control::placeholder {
+    font-size: 14px;
+  }
+  .shape {
+    display: none;
+  }
+  .mw-1640 {
+    max-width: 720px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: normal !important;
+  }
+  /** Banner Style **/
+  .banner-bg-1 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .banner-content {
+    margin-top: 0;
+    max-width: 100%;
+  }
+  .banner-content h1 {
+    font-size: 40px;
+    line-height: normal;
+    margin-bottom: 15px;
+  }
+  .banner-content p {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+  .banner-content.style-three {
+    margin-left: 0;
+  }
+  .banner-content.style-three p {
+    margin-bottom: 20px;
+  }
+  .banner-content.style-three .banner-btn {
+    margin-bottom: 30px;
+  }
+  .banner-content.style-three .location-track {
+    border-radius: 20px;
+    margin: 0;
+  }
+  .location-track {
+    padding: 20px;
+    padding-bottom: 0;
+    margin-bottom: 30px;
+    margin-right: 0;
+  }
+  .location-track .form-group {
+    margin-bottom: 20px;
+  }
+  .location-track .form-group .title {
+    font-size: 13px;
+  }
+  .location-track .form-group .booking-date {
+    font-size: 13px;
+  }
+  .location-track .form-group .form-select {
+    font-size: 13px;
+  }
+  .location-track .form-group::before {
+    display: none;
+  }
+  .location-track .src-btn {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+  }
+  .location-track .src-btn i {
+    font-size: 16px;
+  }
+  .banner-img-wrap {
+    margin-left: 0;
+  }
+  .banner-img-wrap .banner-img-two {
+    margin-top: 30px;
+  }
+  .banner-img-wrap .banner-img-two .packages {
+    position: unset;
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  .banner-img-wrap.style-three {
+    margin-left: 0;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .banner-img-wrap.style-three .banner-img-two {
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 30px;
+  }
+  .banner-img-wrap.style-three .banner-img-two img {
+    border-radius: 20px;
+  }
+  .banner-bg-2 {
+    padding-top: 130px;
+    padding-bottom: 60px;
+  }
+  .banner-img-3 {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .banner-content-two .banner-content-wrap {
+    margin-left: 0;
+    text-align: center;
+  }
+  .banner-content-two .banner-content-wrap h1 {
+    font-size: 40px;
+  }
+  .banner-content-two .banner-content-wrap h1 .banner-img-4 {
+    max-width: 80px;
+  }
+  .banner-content-two .ms-140 {
+    margin: auto;
+    margin-left: 0;
+    text-align: center;
+    margin-top: 30px;
+    display: list-item;
+  }
+  .banner-buy-sell-two {
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .banner-buy-sell-two .form-group {
+    margin-bottom: 10px;
+  }
+  .banner-buy-sell-two .col-lg-3:last-child .form-group {
+    margin-bottom: 0;
+  }
+  .video-height video {
+    width: 100%;
+  }
+  /** Follow Style **/
+  .follow-us {
+    margin-bottom: 30px !important;
+  }
+  /** Section Style **/
+  .top-title {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title h2 {
+    font-size: 30px;
+  }
+  /** Benefits Style **/
+  .benefits-single-item {
+    border: 1px solid rgba(17, 24, 39, 0.14);
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 100%;
+  }
+  .benefits-single-item::before {
+    display: none;
+  }
+  .benefits-single-item svg {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+  }
+  .benefits-single-item h5 {
+    font-size: 20px;
+  }
+  .benefits-single-item.style-three {
+    padding: 20px;
+  }
+  /** Swiper Controller Style **/
+  .swiper-controller .controller-icon {
+    width: 40px;
+    height: 40px;
+    line-height: 37px;
+  }
+  .swiper-controller .controller-icon.next {
+    margin-left: 5px;
+  }
+  /** Popular Style **/
+  .popular-single-item h3 {
+    font-size: 20px;
+  }
+  /** Welcome Style **/
+  .welcome-img {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .welcome-content h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .welcome-content .welcome-single-item {
+    text-align: center;
+    border: 1px solid rgba(17, 24, 39, 0.14);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .welcome-content .welcome-btn-wrap {
+    margin-top: 0;
+  }
+  /** Most Popular Style **/
+  .most-popular-tab .nav-item {
+    margin-right: 5px;
+  }
+  .most-popular-tab .nav-item button {
+    font-size: 15px;
+    padding: 10px 20px;
+  }
+  .most-popular-single-item .most-popular-single-img .most-popular-single-heart-discount {
+    top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .most-popular-single-item .most-popular-single-content {
+    padding: 20px;
+  }
+  .most-popular-single-item .most-popular-single-content h3 {
+    font-size: 16px;
+  }
+  .most-popular-single-item .most-popular-single-content .most-popular-single-price span .title {
+    font-size: 18px;
+  }
+  /** Works Item Style **/
+  .works-single-item {
+    border: 1px solid rgba(17, 24, 39, 0.14);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .works-single-item .works-single-img {
+    margin-bottom: 20px;
+  }
+  .works-single-item h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  /** Discount Style **/
+  .discount-single-item .discount {
+    top: 20px;
+    left: 20px;
+  }
+  .discount-single-item .discount-single-content h3 {
+    font-size: 20px;
+    margin-bottom: 3px;
+  }
+  /** Choose Style **/
+  .choose-img {
+    margin: auto;
+  }
+  .choose-content h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .choose-content .choose-content-list li h4 {
+    font-size: 20px;
+  }
+  .choose-content .choose-content-list li .ms-40 {
+    margin-left: 20px;
+  }
+  /** Author Style **/
+  .author-single-item {
+    padding: 30px;
+  }
+  .author-single-item h3 {
+    font-size: 20px;
+  }
+  .author-single-item .author-single-location {
+    margin-bottom: 20px;
+  }
+  /** Testimonial Style **/
+  .testimonial-img {
+    margin: auto;
+  }
+  .testimonial-content h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .testimonial-content p {
+    font-size: 16px;
+  }
+  .testimonial-single-item h4 {
+    font-size: 16px;
+  }
+  .testimonial-img-three {
+    max-width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 0 !important;
+  }
+  /** Discover Style **/
+  .discover-single-item {
+    padding: 30px;
+  }
+  .subscribe-content .form-control {
+    height: 50px;
+  }
+  .subscribe-content .default-btn {
+    padding: 10px 15px;
+  }
+  /** How It Works Style **/
+  .how-it-works-content {
+    max-width: 100%;
+  }
+  .how-it-works-content h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .how-it-works-content p {
+    margin-bottom: 20px;
+  }
+  .how-it-works-single-item {
+    padding: 20px;
+  }
+  .how-it-works-single-item h1 {
+    font-size: 60px;
+  }
+  .how-it-works-single-item h3 {
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  /** Why Choose Tofy Content Style **/
+  .why-choose-tofy-content h2 {
+    font-size: 30px;
+  }
+  .why-choose-tofy-content ul li h4 {
+    font-size: 20px;
+  }
+  .why-choose-tofy-content ul li .ms-30 {
+    margin-left: 15px;
+  }
+  .why-choose-tofy-img {
+    max-width: 100%;
+  }
+  /** Top Author Style **/
+  .top-author-single-item .top-author-single-content {
+    padding: 20px;
+  }
+  .top-author-single-item .top-author-single-content h3 {
+    font-size: 20px;
+  }
+  .top-author-single-item .top-author-single-img .social-link {
+    right: 20px;
+  }
+  .top-author-single-item .top-author-single-img .listing {
+    top: 20px;
+    left: 20px;
+    font-size: 13px;
+  }
+  /** Swiper Controller Style **/
+  .swiper-controller-wrap .swiper-controller {
+    position: unset;
+    margin-top: 20px;
+  }
+  /** FAQ Style **/
+  .faq-content {
+    margin-bottom: 30px;
+  }
+  .faq-content h2 {
+    font-size: 25px;
+  }
+  .faq-accordion-wrap {
+    margin-bottom: 30px;
+  }
+  .faq-accordion-wrap .accordion .accordion__item {
+    margin-bottom: 40px;
+  }
+  .faq-accordion-wrap .accordion .accordion__item .accordion__button {
+    font-size: 17px;
+  }
+  .faq-img {
+    max-width: 100%;
+  }
+  .faq-img-2 {
+    max-width: 100%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  /** Funfact Style **/
+  .funfact-area .col-lg-25 {
+    width: 49%;
+    flex: 0 0 auto;
+    display: inline-block;
+  }
+  /** Offer Style **/
+  .offer-content {
+    position: unset;
+    transform: unset;
+    padding: 0;
+    margin-top: 30px;
+  }
+  .offer-content h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  .offer-content .offer-content-btn {
+    margin-top: 30px;
+  }
+  /** Destination Style **/
+  .destination-content {
+    margin-bottom: 30px;
+  }
+  .destination-content h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .destination-content .destination-content-list li h4 {
+    font-size: 18px;
+  }
+  .destination-content .destination-content-list li .ms-35 {
+    margin-left: 10px;
+  }
+  /** Blog Style **/
+  .blog-content h2 {
+    font-size: 25px;
+  }
+  .blog-single-item .blog-single-content {
+    padding: 20px;
+  }
+  .blog-single-item .blog-single-content h4 {
+    font-size: 20px;
+  }
+  /** How It Works Style **/
+  .how-its-work-single-item {
+    padding: 20px;
+  }
+  .how-its-work-single-item h4 {
+    font-size: 20px;
+  }
+  .how-its-work-single-item .ms-30 {
+    margin-left: 0;
+    margin-top: 20px;
+  }
+  /** Page banner Style **/
+  .page-banner-area {
+    padding-top: 130px;
+    padding-bottom: 60px;
+  }
+  .page-banner-img {
+    margin-top: 30px;
+    margin-left: 0;
+  }
+  .page-banner-content h2 {
+    font-size: 30px;
+  }
+  .page-banner-content ul.style-two li span {
+    font-size: 14px;
+  }
+  .track-form-area .location-track {
+    border-radius: 20px;
+  }
+  .filter-drop {
+    margin-top: 30px;
+  }
+  .filter-drop li {
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+  .filter-drop li .opacity-btn {
+    width: 100%;
+  }
+  .pagination-area {
+    margin-top: 0;
+  }
+  .map-wrap iframe {
+    height: 500px;
+    margin-top: 30px;
+  }
+  .box-style {
+    padding: 20px;
+  }
+  .stay-details-content .post-info h3 {
+    font-size: 22px;
+  }
+  .box-title h4 {
+    font-size: 20px;
+  }
+  .stay-details-content .stay-comment-list {
+    padding: 20px;
+  }
+  .stay-details-content .stay-comment-list ul li {
+    margin-left: 0;
+    padding: 20px;
+  }
+  .stay-details-content .stay-comment-list ul li .ms-4 {
+    margin-left: 0 !important;
+    margin-top: 20px;
+  }
+  .stay-details-sidebar .stay-single-sidebar-item {
+    padding: 20px;
+  }
+  .choosing-listing-categories-content .choosing-form {
+    padding: 30px;
+  }
+  .choosing-listing-categories-content .choosing-form h4 {
+    font-size: 20px;
+  }
+  .choosing-listing-categories-content .choosing-btn {
+    margin-top: 20px;
+  }
+  .choosing-listing-categories-content .choosing-form .border-style {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+  }
+  .author-content-wrap {
+    padding: 20px;
+  }
+  .author-content-review {
+    padding: 20px;
+  }
+  .author-sidebar {
+    padding: 20px;
+  }
+  .account-content {
+    padding: 30px;
+  }
+  .account-content .account-tabs .nav-item {
+    margin-right: 5px;
+    margin-bottom: 5px;
+  }
+  .account-content .account-tabs .nav-item button {
+    font-size: 12px;
+    padding: 12px 10px;
+  }
+  .box-title {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .box-title h3 {
+    font-size: 20px;
+  }
+  .about-img {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+  .subscription-single-item {
+    padding: 20px;
+  }
+  .subscription-single-item .subscription-header svg {
+    width: 50px;
+    height: 50px;
+  }
+  .subscription-single-item .subscription-header .ms-4 {
+    margin-left: 0.5rem !important;
+  }
+  .subscription-single-item {
+    padding: 20px;
+  }
+  .subscription-single-item .subscription-header h1 {
+    font-size: 30px;
+  }
+  .subscription-single-item .subscription-header svg {
+    width: 50px;
+    height: 50px;
+  }
+  .subscription-single-item .subscription-header .ms-4 {
+    margin-left: 0.5rem !important;
+  }
+  .blog-details-content h2 {
+    font-size: 20px;
+  }
+  .blog-details-content .blockquote {
+    padding: 20px;
+  }
+  .author-content {
+    padding: 20px;
+  }
+  .comment-replay {
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  .single-sidebar-item {
+    padding: 20px;
+  }
+  .flight-accordion .accordion {
+    width: 1040px;
+  }
+}
+/* Min width 992px to Max width 1199px */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .mw-1640 {
+    max-width: 960px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .shape {
+    display: none;
+  }
+  /** Benefits Style **/
+  .benefits-single-item {
+    max-width: 100%;
+  }
+  .benefits-single-item svg {
+    width: 80px;
+    height: 80px;
+  }
+  .benefits-single-item::before {
+    display: none;
+  }
+  .benefits-single-item.style-three {
+    padding: 20px;
+  }
+  .benefits-single-item.style-three h5 {
+    font-size: 18px;
+  }
+  /** Banner Style **/
+  .banner-content h1 {
+    font-size: 60px;
+  }
+  .banner-content.style-three h1 {
+    font-size: 54px;
+  }
+  .banner-content.style-three .location-track {
+    margin-left: -430px;
+    margin-right: 0;
+  }
+  .banner-img-3 {
+    text-align: center;
+  }
+  .banner-content-two .banner-content-wrap {
+    margin: auto;
+  }
+  .banner-content-two .banner-content-wrap h1 {
+    font-size: 45px;
+    line-height: 70px;
+  }
+  .banner-buy-sell-two {
+    margin-right: -440px;
+  }
+  .banner-content-two {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .banner-content-two .banner-img-3 {
+    margin-bottom: 30px;
+  }
+  .banner-content-two .ms-140 {
+    margin-left: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  /** Welcome Style **/
+  .welcome-content h2 {
+    font-size: 43px;
+  }
+  /** Author Style **/
+  .author-single-item {
+    padding: 20px;
+  }
+  .author-single-item h3 {
+    font-size: 20px;
+  }
+  .author-single-item .author-single-location {
+    font-size: 17px;
+  }
+  /** Discover Style **/
+  .discover-single-item {
+    padding: 30px 15px;
+  }
+  /** Welcome Style **/
+  .welcome-single-item span {
+    font-size: 14px;
+  }
+  /** Most Popular Style **/
+  .most-popular-tab .nav-item button {
+    font-size: 14px;
+  }
+  /** Funfact Style **/
+  .funfact-single-item p {
+    font-size: 14px;
+  }
+  .p-style .most-popular-single-content {
+    padding: 10px;
+  }
+  .p-style .most-popular-single-content .default-btn.btn-border {
+    padding: 8px 10px;
+  }
+  .map-wrap iframe {
+    height: 500px;
+    margin-top: 30px;
+  }
+  .box-style {
+    padding: 20px;
+  }
+  .stay-details-sidebar .stay-single-sidebar-item {
+    padding: 20px;
+  }
+  .subscription-single-item {
+    padding: 20px;
+  }
+  .subscription-single-item .subscription-header svg {
+    width: 50px;
+    height: 50px;
+  }
+  .subscription-single-item .subscription-header .ms-4 {
+    margin-left: 0.5rem !important;
+  }
+  .single-sidebar-item {
+    padding: 20px;
+  }
+  .single-sidebar-item .popular-post h3 {
+    font-size: 15px;
+  }
+  .author-content {
+    padding: 20px;
+  }
+  .comment-replay {
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  .single-sidebar-item {
+    padding: 20px;
+  }
+  .flight-accordion .accordion {
+    width: 1040px;
+  }
+  .discount-single-item .discount-single-content {
+    padding: 20px;
+  }
+  .discount-single-item .discount-single-content h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .discount-single-item .discount-single-content span {
+    font-size: 14px;
+  }
+  .choose-content h2 {
+    font-size: 35px;
+    line-height: 50px;
+    margin-bottom: 20px;
+  }
+  .testimonial-content h2 {
+    font-size: 33px;
+    margin-bottom: 30px;
+  }
+  .how-it-works-single-item h3 {
+    font-size: 22px;
+  }
+  .how-it-works-content h2 {
+    font-size: 35px;
+    line-height: 50px;
+    margin-bottom: 20px;
+  }
+  .why-choose-tofy-content h2 {
+    font-size: 35px;
+    line-height: 50px;
+    margin-bottom: 20px;
+  }
+  .section-title h2 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .faq-content h2 {
+    font-size: 32px;
+    line-height: 50px;
+  }
+  .destination-content h2 {
+    font-size: 35px;
+    line-height: 50px;
+    margin-bottom: 20px;
+  }
+}
+/* Min width 1200px to Max width 1399px */
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  /** Shape Style **/
+  .shape.shape-2 {
+    display: none;
+  }
+  .shape.shape-6 {
+    display: none;
+  }
+  .shape.shape-11 {
+    display: none;
+  }
+  .shape.shape-17 {
+    display: none;
+  }
+  .shape.shape-15 {
+    display: none;
+  }
+  /** Benefits Style **/
+  .benefits-single-item::before {
+    right: -48px;
+  }
+  .benefits-single-item h5 {
+    font-size: 20px;
+  }
+  /** Location Style **/
+  .location-track {
+    margin-right: -345px;
+  }
+  .location-track .form-group .title {
+    font-size: 15px;
+  }
+  /** Most Popular Style **/
+  .most-popular-single-item .most-popular-single-content {
+    padding: 20px;
+  }
+  /** Author Style **/
+  .author-single-item {
+    padding: 20px;
+  }
+  /** Discover Style **/
+  .banner-content {
+    max-width: 530px;
+  }
+  .banner-content.style-three .location-track {
+    margin-left: -340px;
+    margin-right: 0;
+  }
+  .most-popular-single-item .most-popular-single-content h3 {
+    font-size: 16px;
+  }
+  .how-its-work-single-item {
+    padding: 30px 20px;
+  }
+  .how-its-work-single-item h4 {
+    margin-bottom: 13px;
+    font-size: 20px;
+  }
+  .blog-single-item .blog-single-content {
+    padding: 20px;
+  }
+  .testimonial-content h2 {
+    font-size: 40px;
+    margin-bottom: 40px;
+  }
+  .house-listing-single-item .house-listing-single-content h3 {
+    font-size: 22px;
+  }
+  .banner-content h1 {
+    font-size: 55px;
+    line-height: 75px;
+  }
+}
+/* Min width 1200px to Max width 1399px */
+@media only screen and (min-width: 1400px) and (max-width: 1700px) {
+  /** Shape Style **/
+  .shape.shape-2 {
+    display: none;
+  }
+  .shape.shape-6 {
+    display: none;
+  }
+  .shape.shape-11 {
+    display: none;
+  }
+  .shape.shape-17 {
+    display: none;
+  }
+  .shape.shape-15 {
+    display: none;
+  }
+} /*# sourceMappingURL=responsive.css.map */
